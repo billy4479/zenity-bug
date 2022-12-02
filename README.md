@@ -1,4 +1,6 @@
-# Demonstrate a bug in [zenity](https://github.com/ncruces/zenity)
+# Demonstrate a [bug](https://github.com/ncruces/zenity/issues/39) in [zenity](https://github.com/ncruces/zenity)
+
+**FIXED! Checkout the [`fix` branch](https://github.com/billy4479/zenity-bug/tree/fix) for the implemented fix**
 
 **How to reproduce**:
 
