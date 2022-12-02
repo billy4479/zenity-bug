@@ -2,7 +2,7 @@ module github.com/billy4479/zenity-bug
 
 go 1.19
 
-require github.com/ncruces/zenity v0.9.3
+require github.com/ncruces/zenity v0.10.0
 
 require (
 	github.com/akavel/rsrc v0.10.2 // indirect

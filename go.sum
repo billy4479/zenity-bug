@@ -6,8 +6,8 @@ github.com/dchest/jsmin v0.0.0-20220218165748-59f39799265f h1:OGqDDftRTwrvUoL6pO
 github.com/dchest/jsmin v0.0.0-20220218165748-59f39799265f/go.mod h1:Dv9D0NUlAsaQcGQZa5kc5mqR9ua72SmA8VXi4cd+cBw=
 github.com/josephspurrier/goversioninfo v1.4.0 h1:Puhl12NSHUSALHSuzYwPYQkqa2E1+7SrtAPJorKK0C8=
 github.com/josephspurrier/goversioninfo v1.4.0/go.mod h1:JWzv5rKQr+MmW+LvM412ToT/IkYDZjaclF2pKDss8IY=
-github.com/ncruces/zenity v0.9.3 h1:D+EG2hzY4icZxj4RNOgnGelpp605kUcO0fwPLn0qO/U=
-github.com/ncruces/zenity v0.9.3/go.mod h1:XKTS4jDNihIYL8aESCCb4bT8uej0gpdnxWdxG470CN0=
+github.com/ncruces/zenity v0.10.0 h1:cu2OKaarFbLHdJx8xStMhdamSjZ+eNB2LGUkFD+0VYU=
+github.com/ncruces/zenity v0.10.0/go.mod h1:XKTS4jDNihIYL8aESCCb4bT8uej0gpdnxWdxG470CN0=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/randall77/makefat v0.0.0-20210315173500-7ddd0e42c844 h1:GranzK4hv1/pqTIhMTXt2X8MmMOuH3hMeUR0o9SP5yc=
